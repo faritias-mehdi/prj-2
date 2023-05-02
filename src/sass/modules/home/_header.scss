@@ -1,0 +1,41 @@
+.head{
+    width: 100%;
+    height: 100px;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    
+}
+.bold{
+    font-weight: bolder;
+}
+li{
+    list-style: none;
+}
+li a {
+    text-decoration: none;
+
+}
+.title{
+    width: 20%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.liste ul li a{
+    color: white;
+}
+
+
+.liste ul{
+    width: 80%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 30px;
+    
+    
+}
